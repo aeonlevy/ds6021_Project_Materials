@@ -15,7 +15,7 @@ This project analyzes how socioeconomic and demographic factors relate to SNAP (
 5. Interpretation and conclusions  
 
 ## How to Run
-1. Open the notebook `benefits_per_state_data.ipynb`  
+1. Open the notebook `final_master_dataset.csv`  
 2. Run all cells in order  
 3. All datasets must be placed in the same directory as the notebook  
 4. Requires Python 3.11+ with pandas, numpy, sklearn, seaborn, matplotlib  
